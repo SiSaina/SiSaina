@@ -7,6 +7,14 @@ I may not be the most talented, but I’m deeply passionate about learning and c
 I genuinely enjoy building meaningful and fun software that helps others. 
 If you spot any issues in my GitHub projects, feel free to let me know — I always welcome feedback to help me grow.
 
+🧠 **Additional Skills**
+
+- House crop producer
+- Animal caretaker
+- Home cook chef
+- Video and photo editor
+- Photographer
+
 ---
 
 #### 💻 Programming Languages
