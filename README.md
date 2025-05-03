@@ -5,13 +5,13 @@
 
 I may not be the most talented, but I’m deeply passionate about learning and creating software. I'm always desirous to continue improving, constantly developing both my soft and hard skills. 
 I genuinely enjoy building meaningful and fun software that helps others. 
-If you spot any issues in my GitHub projects, feel free to let me know — I always welcome feedback to help me grow.
+<br>If you spot any issues in my GitHub projects, feel free to let me know — I always welcome feedback to help me grow.
 
 🧠 **Additional Skills**
 
 - House crop producer
 - Animal caretaker
-- Home cook chef
+- Home-cooked chef
 - Video and photo editor
 - Photographer
 
