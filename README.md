@@ -1,16 +1,12 @@
 <h1 align="center">The name is Mao Sokveasna</h1>
-<h3 align="center">Also known as Sisaina — Upcoming Software Engineer</h3>
+<h3 align="center">Also known as Saina — Upcoming Software Engineer(AI)</h3>
 
 ---
 
-I may not be the most talented, but I’m deeply passionate about learning and creating software. I'm always desirous to continue improving, constantly developing both my soft and hard skills. 
-I genuinely enjoy building meaningful and fun software that helps others. 
-<br>If you spot any issues in my GitHub projects, feel free to let me know — I always welcome feedback to help me grow.
+I learn, I code, I drink coffee.
 
 🧠 **Additional Skills**
 
-- House crop producer
-- Animal caretaker
 - Home-cooked chef
 - Video and photo editor
 - Photographer
@@ -24,17 +20,13 @@ I genuinely enjoy building meaningful and fun software that helps others.
 - JavaScript (JS)
 - TypeScript (TS)
 
-#### 🌐 Web Development
-- HTML, CSS
-- Bootstrap
-- React
-
 #### 🧩 Frameworks & Tools
 - ASP.NET
 - ADO.NET
 - MAUI
 - .NET
 - Laravel
+- Next JS
 
 #### 🗄️ Database
 - Microsoft SQL Server
