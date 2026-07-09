@@ -7,21 +7,20 @@ Software Engineering student specializing in AI/ML. I cook, I code, and I drink 
 
 🧠 **Additional Skills**
 
-- Home-cooked chef
-- Video and photo editor
-- Photographer
+- Self-made Chef
+- Video/Photo Editor
+- Videographer/Photographer
+- Athlete
 
 ---
 
 #### 💻 Programming Languages
-- C, C++
-- C
+- C Family
 - Python
 - JavaScript (JS)
 - TypeScript (TS)
 
 #### 🧩 Frameworks & Tools
-- MAUI
 - .NET
 - Laravel
 - Next JS
