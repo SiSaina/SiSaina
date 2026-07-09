@@ -10,6 +10,7 @@ Software Engineering student specializing in AI/ML. I cook, I code, and I drink 
 - Self-made Chef
 - Video/Photo Editor
 - Videographer/Photographer
+- Barista
 - Athlete
 
 ---
