@@ -1,9 +1,9 @@
 <h1 align="center">The name is Mao Sokveasna</h1>
-<h3 align="center">Also known as Saina — Upcoming Software Engineer(AI)</h3>
+<h3 align="center">Also known as Saina</h3>
 
 ---
 
-I learn, I code, I drink coffee.
+Software Engineering student specializing in AI/ML. I cook, I code, and I drink coffee.
 
 🧠 **Additional Skills**
 
@@ -15,14 +15,12 @@ I learn, I code, I drink coffee.
 
 #### 💻 Programming Languages
 - C, C++
-- C#
-- PHP
+- C
+- Python
 - JavaScript (JS)
 - TypeScript (TS)
 
 #### 🧩 Frameworks & Tools
-- ASP.NET
-- ADO.NET
 - MAUI
 - .NET
 - Laravel
